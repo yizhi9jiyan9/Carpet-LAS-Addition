@@ -2,7 +2,12 @@
 >*ps:前置要Carpet 和 FabricAPI*
 >
 
-## 基本信息
+## Author Information/基本信息
+English   
+**Owner**:[Fanzhitianyu](https://space.bilibili.com/3461569335790303)  
+**Belong**:[LazyAlienServer](https://lazyalienserver.top/) -- Technical Group  
+**Original Intention**:Born for redstone technology
+Chinese   
 **作者**：[Fanzhitianyu](https://space.bilibili.com/3461569335790303)   
 **隶属**：[LazyAlienServer](https://lazyalienserver.top/) -- 计算机技术探究小组   
 **初衷**：为辅助红石机器设计，探究红石技术而生。
